@@ -13,7 +13,7 @@ Getting Started
 ----------------
 
 - Install [Node.js](https://nodejs.org/) 
-- `git clone` or [Download](https://github.com/alexilyaev/react-es6-starter/archive/master.zip) this repo
+- `git clone` or [Download](https://github.com/Alexodes/sass-boilerplate/archive/master.zip) this repo
 - Install dependencies (at the root of the repo):
 
     ```
